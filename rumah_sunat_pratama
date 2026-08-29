@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Rumah Sunat Pratama - Khitan Modern & Aman</title>
+    <title>Rumah Sunat Pratama - Khitan Modern, Aman & menyenangkan</title>
     <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800&family=Playfair+Display:wght@400;700&display=swap" rel="stylesheet">
     <style>
         * { margin: 0; padding: 0; box-sizing: border-box; }
@@ -332,7 +332,7 @@
             <div class="logo">🏥</div>
             <div>
                 <h1>RUMAH SUNAT PRATAMA</h1>
-                <p>KHITAN MODERN & AMAN</p>
+                <p>KHITAN MODERN, AMAN & MENYENANGKAN</p>
             </div>
         </div>
         <div class="nav-links">
@@ -351,7 +351,7 @@
             <p>Layanan khitan modern, steril, dan nyaman dengan tenaga medis profesional. Kami hadir untuk memberikan pengalaman khitan terbaik bagi putra Anda.</p>
             <div class="hero-buttons">
                 <button onclick="showPage('daftar')" class="btn-primary">📋 Daftar Sekarang</button>
-                <a href="https://wa.me/6281234567890?text=Halo%20Rumah%20Sunat%20Pratama,%20saya%20ingin%20konsultasi%20tentang%20khitanan" target="_blank" class="btn-wa">💬 Konsultasi WA</a>
+                <a href="https://wa.me/6282234795114?text=Halo%20Rumah%20Sunat%20Pratama,%20saya%20ingin%20konsultasi%20tentang%20khitanan" target="_blank" class="btn-wa">💬 Konsultasi WA</a>
             </div>
         </div>
 
@@ -386,15 +386,15 @@
             <div class="testi-grid">
                 <div class="testi-card">
                     <p>"Pelayanan sangat ramah, anak saya tidak rewel sama sekali. Prosesnya cepat dan steril."</p>
-                    <p class="author">— Bapak Ahmad, Jakarta</p>
+                    <p class="author">— Bapak Ahmad, ponorogo</p>
                 </div>
                 <div class="testi-card">
                     <p>"Sertifikatnya bagus dan bisa langsung dicetak. Sangat recommended!"</p>
-                    <p class="author">— Ibu Siti, Bekasi</p>
+                    <p class="author">— Ibu Siti, wates slahung</p>
                 </div>
                 <div class="testi-card">
                     <p>"Khitan di rumah jadi lebih nyaman. Timnya datang tepat waktu."</p>
-                    <p class="author">— Bapak Ridwan, Tangerang</p>
+                    <p class="author">— Bapak Ridwan, babadan</p>
                 </div>
             </div>
         </div>
@@ -527,7 +527,7 @@
                         <div class="ttd">
                             <div class="line"></div>
                             <p>Tanda Tangan</p>
-                            <p class="nama">dr. Pratama</p>
+                            <p class="nama">Edi Prayitno,A.Md.Kep</p>
                         </div>
                     </div>
                 </div>
@@ -571,7 +571,7 @@
                         <div class="icon-item">📍</div>
                         <div>
                             <h4>Alamat Praktik</h4>
-                            <p>Jl. Sunat Pratama No. 123, Jakarta Selatan</p>
+                            <p>Bajarejo, Pudak, Ponorogo atau Slahung, Slahung, Ponorogo</p>
                         </div>
                     </div>
                     <div class="kontak-item">
@@ -590,7 +590,7 @@
                     </div>
                 </div>
 
-                <a href="https://wa.me/6281234567890?text=Halo%20Rumah%20Sunat%20Pratama,%20saya%20ingin%20konsultasi%20tentang%20khitanan" target="_blank" class="btn-wa-full">💬 Chat WhatsApp Sekarang</a>
+                <a href="https://wa.me/6282234795114?text=Halo%20Rumah%20Sunat%20Pratama,%20saya%20ingin%20konsultasi%20tentang%20khitanan" target="_blank" class="btn-wa-full">💬 Chat WhatsApp Sekarang</a>
             </div>
         </div>
     </div>
